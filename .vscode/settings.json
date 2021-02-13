@@ -1,0 +1,10 @@
+<<<<<<< HEAD
+{
+    "python.formatting.provider": "yapf"
+}
+=======
+{
+    "python.pythonPath": "/home/idradi/.local/share/virtualenvs/btre_project-UpdKZMP4/bin/python",
+    "python.formatting.provider": "yapf"
+}
+>>>>>>> 2f08002 (finishing project)
